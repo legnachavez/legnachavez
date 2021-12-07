@@ -1,20 +1,11 @@
-### Hi there 👋
-
-<!--
-**legnachavez/legnachavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 <h1 align="center">Hi 👋, I'm Legna 👩🏻‍💻</h1>
-<h3 align="center">A passionate frontend junior developer from New York</h3>
+<h3 align="center">Frontend junior developer from New York🗽</h3>
 
 - 🔭 I’m currently working on [Kinoko](https://github.com/nazoadiego/Kinoko)
 
 - 🌱 I’m currently learning **more about Rails**
 
 - 📫 How to reach me **legna.ch18@gmail.com**
-
-- 📄 Know about my experiences [https://resume.io/r/ludJaSTD5](https://resume.io/r/ludJaSTD5)
 
 - ⚡ Fun fact **I make myself laugh**
 
