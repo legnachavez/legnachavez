@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Legna 👩🏻‍💻</h1>
-<h3 align="center">Frontend junior developer from New York🗽</h3>
+<h3 align="center">Brand Designer from New York🗽</h3>
 
-- 🔭 I’m currently working on [Kinoko](https://github.com/nazoadiego/Kinoko)
+- 🔭 I’m currently working on a secret project
 
 - 🌱 I’m currently learning **more about Rails**
 
-- 📫 How to reach me **legna.ch18@gmail.com**
+- 🌐 **legna.design**
 
 - ⚡ Fun fact **I make myself laugh**
 
