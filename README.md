@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **more about Rails**
 
-- 🌐 **legna.design**
+- 🌐 **www.legna.design**
 
 - ⚡ Fun fact **I make myself laugh**
 
